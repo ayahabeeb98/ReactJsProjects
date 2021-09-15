@@ -9,7 +9,7 @@
 | #   | Demo |
 |:----  | :---- |
 | [1](https://github.com/ayahabeeb98/product-feedback-app) |  [Product-feedback-app](https://product-feedback-app-reactjs.vercel.app/) |
-| [2](https://github.com/ayahabeeb98/voting_app_ReactJS) |  [Voting-app](https://product-feedback-app-sand.vercel.app/)
-| [3](https://github.com/ayahabeeb98/todo_app_ReactJS) | [Todo-app](https://product-feedback-app-sand.vercel.app/)    |
+| [2](https://github.com/ayahabeeb98/voting_app_ReactJS) |  [Voting-app](https://voting-app-react-js.vercel.app/)
+| [3](https://github.com/ayahabeeb98/todo_app_ReactJS) | [Todo-app](https://todo-app-react-js-zeta.vercel.app/)    |
 
 
